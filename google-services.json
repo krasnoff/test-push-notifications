@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421442712550",
+    "project_id": "expo-notifications-19a74",
+    "storage_bucket": "expo-notifications-19a74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421442712550:android:26095f9f04952625dd9c27",
+        "android_client_info": {
+          "package_name": "com.krasnoff.testPushNotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP8LOJhkyDHYN9gmIMlW78EkLFCa8OtJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

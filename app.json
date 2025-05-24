@@ -20,10 +20,18 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package":	"com.krasnoff.testPushNotifications",
+      "googleServicesFile": "./google-services.json"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8c3551f3-7a46-4b9e-8b71-d1c80d08d499"
+      }
+    },
+    "owner": "krasnoff"
   }
 }

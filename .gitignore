@@ -35,3 +35,6 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# private keys
+expo-notifications-19a74-firebase-adminsdk-fbsvc-58c5e8c09f.json
